@@ -1,0 +1,26 @@
+.malik-head{
+
+    font-family: 'Staatliches', cursive;
+    font-size:3.4rem;
+
+}
+.for-record{
+    font-family: 'Staatliches', cursive;
+
+    width: 100%;
+    line-height: 80px;
+    font-size: 2.4rem;
+    background: -webkit-linear-gradient(right,blue,purple);
+
+    text-align:-moz-center;
+    margin-top: -31px;
+    padding: 0px;
+
+}
+.main-button{
+    margin-left: 283px;
+}
+.text-light{
+    margin-top: 10px;
+    background: -webkit-linear-gradient( left,darkred,lightcoral);
+}
